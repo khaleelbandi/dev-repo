@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 if [ condition ];then
 echo statement
 fi
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> br2
+>>>>>>> br1
